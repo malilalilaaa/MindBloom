@@ -1,0 +1,2 @@
+D:/OneDrive/Desktop/mindbloom/android/app/.cxx/Debug/6y5y594f/x86/CMakeFiles/edit_cache.dir
+D:/OneDrive/Desktop/mindbloom/android/app/.cxx/Debug/6y5y594f/x86/CMakeFiles/rebuild_cache.dir

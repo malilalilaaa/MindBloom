@@ -1,0 +1,2 @@
+D:/OneDrive/Desktop/mindbloom/android/app/.cxx/RelWithDebInfo/t54593wf/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/OneDrive/Desktop/mindbloom/android/app/.cxx/RelWithDebInfo/t54593wf/armeabi-v7a/CMakeFiles/rebuild_cache.dir
